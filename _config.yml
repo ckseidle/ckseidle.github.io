@@ -1,5 +1,5 @@
 # Site settings
-title: Christian Seidle
+title: Christian Seidle's Page
 description: >- # this means to ignore newlines until "baseurl:"
   Overview of my github projects
 baseurl: "" # the subpath of your site, e.g. /blog
